@@ -1,0 +1,15 @@
+com\hospital\management\entity\Patient.class
+com\hospital\management\controller\LogoutController.class
+com\hospital\management\repository\DoctorRepository.class
+com\hospital\management\controller\PatientController.class
+com\hospital\management\entity\HardwareAsset.class
+com\hospital\management\controller\LoginController.class
+com\hospital\management\repository\PatientRepository.class
+com\hospital\management\controller\HomeController.class
+com\hospital\management\repository\EmployeeRepository.class
+com\hospital\management\controller\HardwareAssetController.class
+com\hospital\management\entity\Doctor.class
+com\hospital\management\repository\HardwareAssetRepository.class
+com\hospital\management\entity\Employee.class
+com\hospital\management\HospitalManagementApplication.class
+com\hospital\management\controller\ManagementController.class
